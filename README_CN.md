@@ -44,15 +44,13 @@ cd x-pay
 
 4. 访问管理后台或通过 API 创建订单并测试支付回调。
 
-## 📎 相关仓库（示例链接）
+## 📎 相关仓库
 - x-pay-java-sdk — Java SDK  
 - x-pay-node-sdk — Node.js SDK  
 - x-pay-vue-demo — 前端示例（Vue）  
 - x-pay-react-demo — 前端示例（React）  
 
-（请把上面仓库名替换为你真实的 repo 链接或保持为子模块链接）
-
-## 📌 Roadmap（示例）
+## 📌 Roadmap
 - [ ] 支持 ETH / BSC USDT  
 - [ ] 自动归集模块完善与上线  
 - [ ] 多商户 SaaS 化支持  

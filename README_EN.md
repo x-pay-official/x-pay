@@ -50,9 +50,7 @@ cd x-pay
 - x-pay-vue-demo — Vue frontend demo  
 - x-pay-react-demo — React frontend demo  
 
-(Replace the above with actual repository links or submodules as appropriate)
-
-## 📌 Roadmap (Sample)
+## 📌 Roadmap
 - [ ] Support ETH / BSC USDT  
 - [ ] Launch enhanced auto-collection module  
 - [ ] Multi-tenant SaaS support  
