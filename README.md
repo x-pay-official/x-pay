@@ -1,6 +1,6 @@
 # 🌐 X-Pay — 通用加密货币支付系统 / Universal Crypto Payment System
 
-[中文单独下载](README_CN.md) | [English version](README_EN.md)
+[中文单文档](README_CN.md) | [English version](README_EN.md)
 
 ---
 
